@@ -1,5 +1,9 @@
 /* 13th style */
 
+* {
+    box-sizing: border-box;
+}
+
 /*! normalize.css v8.0.1 | MIT License | github.com/necolas/normalize.css */
 html {
   line-height: 1.15;
@@ -149,9 +153,7 @@ template {
 }
 /*# sourceMappingURL=normalize.min.css.map */
 
-*{
-    box-sizing: border-box;
-}
+
 
 :root {
   --color-primary: #d73953;
